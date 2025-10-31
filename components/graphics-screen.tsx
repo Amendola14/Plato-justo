@@ -9,7 +9,9 @@ export default function GraphicsScreen() {
       {/* Header */}
       <div className="bg-white px-6 py-4 shadow-sm">
         <h1 className="text-xl font-semibold text-gray-900">Mis Estadísticas</h1>
-        <p className="text-gray-600 text-sm">Resumen de tus ahorros y compras</p>
+
+       <p className="text-gray-700 text-sm">Resumen de tus ahorros y compras</p>
+      
       </div>
 
       <div className="px-6 py-6 space-y-6">
