@@ -73,7 +73,7 @@ export default function NearbyPlaces({ onBack }: NearbyPlacesProps) {
             <ArrowLeft className="w-5 h-5" />
           </Button>
           <div>
-            <h1 className="text-lg sm:text-xl font-semibold text-gray-900">Cerca de mí</h1>
+            <h1 className="text-lg sm:text-xl font-semibold text-teal-700">Cerca de mí</h1>
             <p className="text-sm text-gray-600">Lugares con ofertas a menos de 500m</p>
           </div>
         </div>
